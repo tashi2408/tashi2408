@@ -4,7 +4,7 @@
 
 - <i>Currently:</i> Pre-final year student at Ajay Kumar Garg Engineering College. 
 
-I'm a MERN Stack Developer and Machine Learning Enthsiast who is passionate about learning inventive technology to elevate people, and building community ❤️. Some technologies I enjoy working with include ReactJS, NodeJS and MongoDB. Languages I hold knowledge about are HTML, SCSS, Javascript, Python and C++. I'm appointed as the ⭐ Google Developer Student Club Lead, AKGEC 2021-2022. ⚡ Outside Tech, I love to dance, swim, enjoy music, and explore nature outdoors.
+I am a MERN Stack Developer and Machine Learning Enthusiast. Passionate about learning new inventive technologies to elevate spirits and build communities ❤️. Some technologies I enjoy working with include ReactJS, NodeJS, and MongoDB. Languages I hold knowledge about are HTML, SCSS, Javascript, Python, and C++. I am chosen as the ⭐ Google Developer Student Club Lead, AKGEC 2021-2022. ⚡ Outside Tech, I love to dance, swim, enjoy music, and explore nature outdoors.
 
 <h2>😄 Pronouns:</h2>
 
